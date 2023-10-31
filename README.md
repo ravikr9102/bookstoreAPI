@@ -41,12 +41,17 @@ The API should now be running on http://localhost:3000.
 You can use tools like Postman to interact with the API. Here are the available API endpoints:
 
 6 API Endpoints
-POST /api/books: Create a new book.
+POST /api/books: Create a new book.                                                                                                                                                                                                                 
 GET /api/books: Retrieve a list of all books.
+
 GET /api/books/:id: Retrieve details of a specific book by its ID.
+
 PUT /api/books/:id/update: Update a book's details.
+
 DELETE /api/books/:id/delete: Delete a book.
+
 Each API endpoint corresponds to a different CRUD operation.
+
 
 7 Built With
 Node.js
