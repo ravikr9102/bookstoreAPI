@@ -43,9 +43,9 @@ You can use tools like Postman to interact with the API. Here are the available 
 6 API Endpoints
 
 * POST /api/books  (Create a new book.)                                                                                                                                                                                                                 
-* GET /api/books  (Retrieve a list of all books.)
+* GET /api/books   (List of all books.)
 
-* GET /api/books/:id  (Retrieve details of a specific book by its ID.)
+* GET /api/books/:id   (Details of a specific book by its ID.)
 
 * PUT /api/books/:id/update  (Update a book's details.)
 
