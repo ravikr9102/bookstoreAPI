@@ -42,14 +42,14 @@ You can use tools like Postman to interact with the API. Here are the available 
 
 6 API Endpoints
 
-* POST /api/books: Create a new book.                                                                                                                                                                                                                 
-* GET /api/books: Retrieve a list of all books.
+* POST /api/books  (Create a new book.)                                                                                                                                                                                                                 
+* GET /api/books  (Retrieve a list of all books.)
 
-* GET /api/books/:id: Retrieve details of a specific book by its ID.
+* GET /api/books/:id  (Retrieve details of a specific book by its ID.)
 
-* PUT /api/books/:id/update: Update a book's details.
+* PUT /api/books/:id/update  (Update a book's details.)
 
-* DELETE /api/books/:id/delete: Delete a book.
+* DELETE /api/books/:id/delete  (Delete a book.)
 
 Each API endpoint corresponds to a different CRUD operation.
 
